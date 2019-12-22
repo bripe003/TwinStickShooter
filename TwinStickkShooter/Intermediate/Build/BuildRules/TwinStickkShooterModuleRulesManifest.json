@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\rikup\\Documents\\Unreal Projects\\TwinStickkShooter\\Source\\TwinStickkShooter\\TwinStickkShooter.Build.cs",
+		"C:\\Users\\rikup\\Documents\\Unreal Projects\\TwinStickkShooter\\Source\\TwinStickkShooter.Target.cs",
+		"C:\\Users\\rikup\\Documents\\Unreal Projects\\TwinStickkShooter\\Source\\TwinStickkShooterEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.0"
+}

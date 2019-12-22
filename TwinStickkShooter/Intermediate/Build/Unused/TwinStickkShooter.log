@@ -1,0 +1,16 @@
+﻿  Parsing headers for TwinStickkShooterEditor
+    Running UnrealHeaderTool "C:\Users\rikup\Documents\Unreal Projects\TwinStickkShooter\TwinStickkShooter.uproject" "C:\Users\rikup\Documents\Unreal Projects\TwinStickkShooter\Intermediate\Build\Win64\TwinStickkShooterEditor\Development\TwinStickkShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for TwinStickkShooterEditor in 20,1267204 seconds
+  Building TwinStickkShooterEditor...
+  Using Visual Studio 2019 14.22.27905 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 12 processes...
+    [1/6] TwinStickkShooter.init.gen.cpp
+    [2/6] BaseCharacter.cpp
+    [3/6] BaseCharacter.gen.cpp
+    [4/6] UE4Editor-TwinStickkShooter-0002.lib
+       Creating library C:\Users\rikup\Documents\Unreal Projects\TwinStickkShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickkShooter\UE4Editor-TwinStickkShooter-0002.lib and object C:\Users\rikup\Documents\Unreal Projects\TwinStickkShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickkShooter\UE4Editor-TwinStickkShooter-0002.exp
+    [5/6] UE4Editor-TwinStickkShooter-0002.dll
+       Creating library C:\Users\rikup\Documents\Unreal Projects\TwinStickkShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickkShooter\UE4Editor-TwinStickkShooter-0002.suppressed.lib and object C:\Users\rikup\Documents\Unreal Projects\TwinStickkShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinStickkShooter\UE4Editor-TwinStickkShooter-0002.suppressed.exp
+    [6/6] TwinStickkShooterEditor.target
+  Total time in Parallel executor: 6,45 seconds
+  Total execution time: 27,46 seconds

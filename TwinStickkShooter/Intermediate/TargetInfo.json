@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TwinStickkShooter",
+			"Path": "C:\\Users\\rikup\\Documents\\Unreal Projects\\TwinStickkShooter\\Source\\TwinStickkShooter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TwinStickkShooterEditor",
+			"Path": "C:\\Users\\rikup\\Documents\\Unreal Projects\\TwinStickkShooter\\Source\\TwinStickkShooterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
